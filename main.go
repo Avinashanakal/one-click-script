@@ -18,7 +18,7 @@ type TemplateRepo struct {
 }
 
 func main() {
-	token := "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"
+	token := ""
 
 	templateOwner := "Avinashanakal"
 	templateRepo := "LoggerLLD"
